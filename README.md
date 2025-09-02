@@ -1,4 +1,4 @@
-Refer to Upload video to youtube Readme.pdf file for detail process. 
+Refer to "Upload video to youtube Readme.pdf" file for detail process. 
 
 ```py
 python upload.py --file=<your video file path> \
